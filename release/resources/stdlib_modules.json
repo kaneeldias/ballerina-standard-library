@@ -78,7 +78,7 @@
             "version": "1.1.0-alpha7-SNAPSHOT",
             "level": 2,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": [
                 "module-ballerina-auth",
                 "module-ballerina-jwt",
@@ -155,7 +155,7 @@
             "version": "0.7.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": [
                 "module-ballerina-email",
                 "module-ballerina-http"
@@ -166,7 +166,7 @@
             "version": "1.1.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": []
         },
         {
@@ -174,7 +174,7 @@
             "version": "1.1.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": [
                 "module-ballerina-email",
                 "module-ballerina-http"
@@ -185,7 +185,7 @@
             "version": "1.1.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": []
         },
         {
@@ -193,7 +193,7 @@
             "version": "1.1.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "main",
-            "release": true,
+            "release": false,
             "dependents": []
         },
         {
@@ -201,7 +201,7 @@
             "version": "0.8.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "master",
-            "release": true,
+            "release": false,
             "dependents": []
         },
         {
@@ -209,7 +209,7 @@
             "version": "0.9.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "main",
-            "release": true,
+            "release": false,
             "dependents": []
         },
         {
@@ -217,7 +217,7 @@
             "version": "0.10.0-alpha7-SNAPSHOT",
             "level": 3,
             "default_branch": "main",
-            "release": true,
+            "release": false,
             "dependents": [
                 "module-ballerina-http"
             ]
