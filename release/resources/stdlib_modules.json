@@ -46,7 +46,7 @@
             "version": "2.0.0-alpha7-SNAPSHOT",
             "level": 1,
             "default_branch": "master",
-            "release": false,
+            "release": true,
             "dependents": [
                 "module-ballerina-crypto",
                 "module-ballerina-file",
